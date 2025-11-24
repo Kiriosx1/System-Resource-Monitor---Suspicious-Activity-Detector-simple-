@@ -212,14 +212,14 @@ If you encounter issues or have questions:
 ## Author
 
 [Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Kiriosx1)
+- Email:  kyros.businesss@gmail.com
 
 ## Acknowledgments
 
 - Thanks to the open-source community for inspiration
 - Built with standard C++ and platform APIs
-
+and a bit of help from my teacher !!!! 
 ---
 
 ⭐ If you find this project useful, please consider giving it a star!
